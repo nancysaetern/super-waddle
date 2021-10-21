@@ -1,0 +1,25 @@
+{
+  "name": "super-waddle",
+  "version": "1.0.0",
+  "description": "note taker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancysaetern/super-waddle.git"
+  },
+  "author": "Nancy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nancysaetern/super-waddle/issues"
+  },
+  "homepage": "https://github.com/nancysaetern/super-waddle#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
